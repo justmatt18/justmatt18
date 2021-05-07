@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Marco Mat :mask: :coffee:
 
-<!--
-**justmatt18/justmatt18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on `Next JS` Blog together with `Ghost CMS`.
+- 📝 I’m currently learning:
 
-Here are some ideas to get you started:
+  - React JS
+  - Next JS
+  - Ghost CMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on my Next JS Blog project, specifically in the design part.
+- 📫 How to reach me:
+
+  - Twitter: _@dev_marcomat_
+  - Instagram: _@dev_marcomat_
+  - Email: *mmatildo98@gmail.com*
